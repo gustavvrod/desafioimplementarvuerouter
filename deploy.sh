@@ -10,5 +10,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:gustavvrod/desafioimplementarvuerouter.git master:gh-pages
+git push -f git@github.com:gustavvrod/desafioimplementarvuerouter.git main:gh-pages
 cd -
